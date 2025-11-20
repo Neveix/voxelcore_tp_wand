@@ -1,2 +1,5 @@
-# voxelcore_tp_wand
-Teleportation Wand for VoxelCore
+# Teleportation Wand for VoxelCore
+Контент-пак для VoxelCore, который добавляет жезл телепортации для использования в творческом режиме.
+
+**Использование:**  
+Возмите жезл телепортации (Teleportation Wand) в руки и нажмите ПКМ
