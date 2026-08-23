@@ -1,7 +1,9 @@
 {
-    "id": "tp_wand",
-    "title": "Teleportation Wand",
-    "version": "1.0.0",
-    "creators": ["Neveix"],
-    "description": "Добавляет жезл телепортации"
+  "id": "tp_wand",
+  "title": "Teleportation Wand",
+  "version": "1.1.0",
+  "creators": [
+    "Neveix"
+  ],
+  "description": "Добавляет жезл телепортации"
 }
